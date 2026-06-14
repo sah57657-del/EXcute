@@ -16,7 +16,9 @@ data class UserEntity(
     val createdAt: Long = System.currentTimeMillis(),
     val usdBalance: Double = 0.0,
     val isVip: Boolean = false,
-    val vipLevel: String = "Free"
+    val vipLevel: String = "Free",
+    val loginPassword: String = "123456",
+    val fundPassword: String = "888888"
 )
 
 @Entity(tableName = "tasks")
