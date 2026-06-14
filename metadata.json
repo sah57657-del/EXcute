@@ -1,0 +1,6 @@
+{
+  "name": "CoinReward",
+  "description": "A luxury rewards and coin earning emulator. Perform tasks, watch simulated sponsored videos, apply referrals, and manage coin withdrawals with full anti-cheat logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
